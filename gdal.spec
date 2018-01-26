@@ -422,6 +422,7 @@ export CPPFLAGS="$CPPFLAGS -I%{_includedir}/libgeotiff"
         --with-sqlite3            \
         --with-threads            \
         --with-webp               \
+        --with-ecw=/usr/local/hexagon \
         --with-xerces             \
         --enable-shared           \
         --with-perl               \
